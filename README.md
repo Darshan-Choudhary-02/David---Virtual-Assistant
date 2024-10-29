@@ -31,5 +31,7 @@ cd config
 
 ## Feedback
 
-If you have any feedback, please reach out to me at darshanchoudhary2007@gmail.com
+If you have any feedback, please reach out to me at darshanchoudhary2007@gmail.com.
+Also please provide your valuable feedback and support.
+
 
